@@ -1,4 +1,4 @@
-CUSA03679_01.05.shn=Mortal Kombats XXC
+CUSA03679_01.05.shn=Mortal Kombats XXC.
 CUSA02320_01.00_big2-ps4_Shipping.elf.shn=Uncharted Collection - UNC2 Dev Menu
 CUSA25234_01.08.shn=(null)
 SLUS00067_01.00.shn=CASTLEVANIA SOTN REBORN
