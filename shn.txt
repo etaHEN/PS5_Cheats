@@ -754,3 +754,4 @@ PPSA05684_01.000.000_2.shn=Uncharted 4 A Thief's End
 PPSA01925_01.000.003.shn=Alan Wake Remastered
 PPSA07576_01.000.000.shn=No More Heroes III
 PPSA05366_01.005.000.shn=A Plague Tale Requiem
+PPSA02745_01.000.004.shn=Tales of Arise
