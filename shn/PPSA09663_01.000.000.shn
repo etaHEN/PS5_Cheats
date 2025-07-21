@@ -18,13 +18,29 @@
       <ValueOff>44-89-A2-98-02-00-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite Items" Description="Items will not be consumed">
+  <Cheat Text="Infinite Items" Description="Items will not decrease when discarding or selling. They will be CONSUMED. Drop items to duplicate and pick them back up. ">
     <Cheatline>
       <PS5Offset>50D4799-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>78D3867</Offset>
       <ValueOn>90-90-90-90</ValueOn>
       <ValueOff>66-89-41-1A</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="50,000,000 XP" Description="Turn cheat on/ kill 1 enemy / turn cheat off / kill 1 enemy / Repeat">
+    <Cheatline>
+      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>C9A7800</Offset>
+      <ValueOn>E9-B7-82-C1-F3-90-90-90-90-90-90-90-E9-B0-82-C1-F3</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>C3E8548-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>5BFAB8</Offset>
+      <ValueOn>E9-43-7D-3E-0C-90-90-90-90</ValueOn>
+      <ValueOff>48-8B-4B-50-48-83-79-18-00</ValueOff>
     </Cheatline>
   </Cheat>
 </Trainer>
