@@ -758,3 +758,4 @@ PPSA02745_01.000.004.shn=Tales of Arise
 PPSA04288_01.000.003.shn=Resident Evil 2
 PPSA09663_01.000.000.shn=Dragons Dogma 2
 PPSA03952_01.000.004.shn=Resident Evil 3
+PPSA10261_01.000.000.shn=Lies of P
