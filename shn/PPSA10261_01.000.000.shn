@@ -89,4 +89,13 @@
       <ValueOff>43-89-4C-FD-0C</ValueOff>
     </Cheatline>
   </Cheat>
+  <Cheat Text="Infinite Fable Arts">
+    <Cheatline>
+      <PS5Offset>4C73DD3-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>2A022D</Offset>
+      <ValueOn>90-90-90-90-90</ValueOn>
+      <ValueOff>43-89-4C-FD-0C</ValueOff>
+    </Cheatline>
+  </Cheat>
 </Trainer>
