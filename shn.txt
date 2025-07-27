@@ -820,3 +820,4 @@ CUSA00556_01.09.shn=The Last of Us
 CUSA08343_01.03.shn=Senran Kagura - Peach Beach Splash
 CUSA34388_05.01.shn=God of War Ragnarok (+Valhalla DLC compatibility)
 SLUS20962_01.00.shn=Castle Shikigami 2
+CUSA43546_01.10.shn=Monster Hunter Stories 2
