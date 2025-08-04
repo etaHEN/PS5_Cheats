@@ -41,11 +41,8 @@ While we make every effort to deliver high quality products, we do not guarantee
   - e.g. `CUSA001234_01.01_example.elf.mc4`
  - **Note:** Only one file format per `titleid` and `version` is currently supported.
 
-### To Do:
-- Move from WIP to Final
-- Add more cheat formats.
-
 ### Credits
 - [LM](https://github.com/lightningmods)
 - [Buzzer](https://github.com/buzzer-re)
+-  [Super Death]
 - [GoldHEN Team for the PS4 Cheats Repo](https://github.com/GoldHEN/GoldHEN_Cheat_Repository/graphs/contributors)
