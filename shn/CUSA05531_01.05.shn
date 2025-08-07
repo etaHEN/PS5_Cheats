@@ -2,62 +2,62 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Final Fantasy 12 The Zodiac Age" Moder="Super Death" Cusa="CUSA05531" Version="01.05" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="Max Level" Description="Kill an enemy">
+  <Cheat Text="Infinite Health + OHK" Description="DO NOT use this with god mode. It will crash the game">
     <Cheatline>
-      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <PS5Offset>746-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB800</Offset>
+      <Offset>23AB8BA</Offset>
       <ValueOn>EB-FE</ValueOn>
       <ValueOff>00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>222F6C7-executable[0]-5</PS5Offset>
+      <PS5Offset>2241011-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>17C939</Offset>
-      <ValueOn>E9-C2-EE-22-02-90-90</ValueOn>
-      <ValueOff>45-89-BD-8C-01-00-00</ValueOff>
+      <Offset>16AFEF</Offset>
+      <ValueOn>E9-C6-08-24-02-90-90</ValueOn>
+      <ValueOff>89-48-48-48-8B-45-D0</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>7FC-executable[0]-5</PS5Offset>
+      <PS5Offset>742-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB804</Offset>
-      <ValueOn>41-BF-00-2D-31-01-45-89-BD-8C-01-00-00-E9-2A-11-DD-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <Offset>23AB8BE</Offset>
+      <ValueOn>83-78-20-01-75-05-E9-2D-F7-DB-FD-C7-40-48-00-00-00-00-48-8B-45-D0-E9-1D-F7-DB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <PS5Offset>746-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB800</Offset>
+      <Offset>23AB8BA</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="Infinite License Points" Description="Gain a point">
+  <Cheat Text="God Mode">
     <Cheatline>
-      <PS5Offset>761-executable[0]-5</PS5Offset>
+      <PS5Offset>74A-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB89F</Offset>
+      <Offset>23AB8B6</Offset>
       <ValueOn>EB-FE</ValueOn>
       <ValueOff>00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>222F67B-executable[0]-5</PS5Offset>
+      <PS5Offset>2241011-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>17C985</Offset>
-      <ValueOn>E9-15-EF-22-02-90-90</ValueOn>
-      <ValueOff>41-89-85-90-01-00-00</ValueOff>
+      <Offset>16AFEF</Offset>
+      <ValueOn>E9-C2-08-24-02-90-90</ValueOn>
+      <ValueOff>89-48-48-48-8B-45-D0</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>75D-executable[0]-5</PS5Offset>
+      <PS5Offset>746-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB8A3</Offset>
-      <ValueOn>B8-9F-86-01-00-41-89-85-90-01-00-00-E9-D8-10-DD-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <Offset>23AB8BA</Offset>
+      <ValueOn>83-78-20-01-75-05-E9-31-F7-DB-FD-89-48-48-48-8B-45-D0-E9-25-F7-DB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>761-executable[0]-5</PS5Offset>
+      <PS5Offset>74A-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB89F</Offset>
+      <Offset>23AB8B6</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
@@ -88,6 +88,36 @@
       <PS5Offset>7A4-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>23AB85C</Offset>
+      <ValueOn>EB-02-90</ValueOn>
+      <ValueOff>EB-FE-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Max Level" Description="Kill an enemy">
+    <Cheatline>
+      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB800</Offset>
+      <ValueOn>EB-FE</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>222F6C7-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>17C939</Offset>
+      <ValueOn>E9-C2-EE-22-02-90-90</ValueOn>
+      <ValueOff>45-89-BD-8C-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>7FC-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB804</Offset>
+      <ValueOn>41-BF-00-2D-31-01-45-89-BD-8C-01-00-00-E9-2A-11-DD-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>800-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB800</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
@@ -148,6 +178,36 @@
       <PS5Offset>7E8-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>23AB818</Offset>
+      <ValueOn>EB-02-90</ValueOn>
+      <ValueOff>EB-FE-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="Infinite License Points" Description="Gain a point">
+    <Cheatline>
+      <PS5Offset>761-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB89F</Offset>
+      <ValueOn>EB-FE</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>222F67B-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>17C985</Offset>
+      <ValueOn>E9-15-EF-22-02-90-90</ValueOn>
+      <ValueOff>41-89-85-90-01-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>75D-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB8A3</Offset>
+      <ValueOn>B8-9F-86-01-00-41-89-85-90-01-00-00-E9-D8-10-DD-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>761-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB89F</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
