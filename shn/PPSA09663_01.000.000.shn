@@ -2,7 +2,7 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Dragon's Dogma 2" Moder="Super Death" Cusa="PPSA09663" Version="01.000.000" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="God Mode" Description="Do not use with &quot;One Hit Kill&quot;">
+  <Cheat Text="God Mode" Description="Do not use with One Hit Kill. Game MUST be restarted if you want to use One Hit Kill after activating God Mode">
     <Cheatline>
       <PS5Offset>7EB-executable[0]-5</PS5Offset>
       <Section>0</Section>
@@ -32,7 +32,7 @@
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="One Hit Kill" Description="Do not use with &quot;God Mode&quot;">
+  <Cheat Text="One Hit Kill" Description="Do not use with God Mode. Game MUST be restarted if you want to use God Mode after activating One Hit Kill">
     <Cheatline>
       <PS5Offset>7E7-executable[0]-5</PS5Offset>
       <Section>0</Section>
