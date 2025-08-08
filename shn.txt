@@ -822,3 +822,4 @@ CUSA34388_05.01.shn=God of War Ragnarok (+Valhalla DLC compatibility)
 SLUS20962_01.00.shn=Castle Shikigami 2
 CUSA43546_01.10.shn=Monster Hunter Stories 2
 CUSA05531_01.05.shn=Final Fantasy 12 The Zodiac Age
+PPSA03977_04.000.000.shn=The Witcher 3 - Wild Hunt Complete Edition
