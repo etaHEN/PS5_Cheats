@@ -2,11 +2,11 @@
 <Trainer xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Game="Final Fantasy 12 The Zodiac Age" Moder="Super Death" Cusa="CUSA05531" Version="01.05" Process="eboot.bin">
   <Genres Name="Action" />
   <Items />
-  <Cheat Text="Infinite Health + OHK" Description="DO NOT use this with god mode. It will crash the game">
+  <Cheat Text="God mode + OHK">
     <Cheatline>
-      <PS5Offset>746-executable[0]-5</PS5Offset>
+      <PS5Offset>742-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB8BA</Offset>
+      <Offset>23AB8BE</Offset>
       <ValueOn>EB-FE</ValueOn>
       <ValueOff>00-00</ValueOff>
     </Cheatline>
@@ -14,29 +14,29 @@
       <PS5Offset>2241011-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>16AFEF</Offset>
-      <ValueOn>E9-C6-08-24-02-90-90</ValueOn>
+      <ValueOn>E9-CA-08-24-02-90-90</ValueOn>
       <ValueOff>89-48-48-48-8B-45-D0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>73E-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB8C2</Offset>
+      <ValueOn>83-78-40-00-0F-84-2A-F7-DB-FD-B9-00-00-00-00-89-48-48-48-8B-45-D0-E9-19-F7-DB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
       <PS5Offset>742-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>23AB8BE</Offset>
-      <ValueOn>83-78-20-01-75-05-E9-2D-F7-DB-FD-C7-40-48-00-00-00-00-48-8B-45-D0-E9-1D-F7-DB-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-    </Cheatline>
-    <Cheatline>
-      <PS5Offset>746-executable[0]-5</PS5Offset>
-      <Section>0</Section>
-      <Offset>23AB8BA</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="God Mode">
+  <Cheat Text="God Mode" Description="Do not use with One Hit Kill">
     <Cheatline>
-      <PS5Offset>74A-executable[0]-5</PS5Offset>
+      <PS5Offset>73E-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB8B6</Offset>
+      <Offset>23AB8C2</Offset>
       <ValueOn>EB-FE</ValueOn>
       <ValueOff>00-00</ValueOff>
     </Cheatline>
@@ -44,20 +44,50 @@
       <PS5Offset>2241011-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>16AFEF</Offset>
-      <ValueOn>E9-C2-08-24-02-90-90</ValueOn>
+      <ValueOn>E9-CE-08-24-02-90-90</ValueOn>
       <ValueOff>89-48-48-48-8B-45-D0</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>746-executable[0]-5</PS5Offset>
+      <PS5Offset>73A-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB8BA</Offset>
-      <ValueOn>83-78-20-01-75-05-E9-31-F7-DB-FD-89-48-48-48-8B-45-D0-E9-25-F7-DB-FD</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+      <Offset>23AB8C6</Offset>
+      <ValueOn>83-78-40-00-0F-84-26-F7-DB-FD-89-48-48-48-8B-45-D0-E9-1A-F7-DB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>74A-executable[0]-5</PS5Offset>
+      <PS5Offset>73E-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>23AB8B6</Offset>
+      <Offset>23AB8C2</Offset>
+      <ValueOn>EB-02-90</ValueOn>
+      <ValueOff>EB-FE-00</ValueOff>
+    </Cheatline>
+  </Cheat>
+  <Cheat Text="One Hit Kill" Description="Do not use with God Mode">
+    <Cheatline>
+      <PS5Offset>73A-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB8C6</Offset>
+      <ValueOn>EB-FE</ValueOn>
+      <ValueOff>00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>2241011-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>16AFEF</Offset>
+      <ValueOn>E9-D2-08-24-02-90-90</ValueOn>
+      <ValueOff>89-48-48-48-8B-45-D0</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>736-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB8CA</Offset>
+      <ValueOn>83-78-40-00-74-11-B9-00-00-00-00-89-48-48-48-8B-45-D0-E9-15-F7-DB-FD-89-48-48-E9-0D-F7-DB-FD</ValueOn>
+      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
+    </Cheatline>
+    <Cheatline>
+      <PS5Offset>73A-executable[0]-5</PS5Offset>
+      <Section>0</Section>
+      <Offset>23AB8C6</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
