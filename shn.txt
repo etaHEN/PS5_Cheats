@@ -824,3 +824,4 @@ CUSA43546_01.10.shn=Monster Hunter Stories 2
 CUSA05531_01.05.shn=Final Fantasy 12 The Zodiac Age
 PPSA03977_04.000.000.shn=The Witcher 3 - Wild Hunt Complete Edition
 PPSA07412_01.000.000.shn=Resident Evil 4 Remake
+CUSA31580_01.11.shn=Sea of Stars
