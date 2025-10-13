@@ -826,3 +826,4 @@ PPSA03977_04.000.000.shn=The Witcher 3 - Wild Hunt Complete Edition
 PPSA07412_01.000.000.shn=Resident Evil 4 Remake
 CUSA31580_01.11.shn=Sea of Stars
 CUSA13285_01.00.shn=Hollow Knight - Voidheart Edition
+PPSA07411_01.100.000.shn=Resident Evil 4 Remake
