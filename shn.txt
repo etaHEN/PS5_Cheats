@@ -828,3 +828,4 @@ CUSA31580_01.11.shn=Sea of Stars
 CUSA13285_01.00.shn=Hollow Knight - Voidheart Edition
 PPSA07411_01.100.000.shn=Resident Evil 4 Remake
 CUSA39420_01.02.shn=Hollow Knight - Silk Song
+PPSA03845_01.000.004.shn=Dead Space
