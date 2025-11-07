@@ -1336,3 +1336,4 @@ CUSA27306_01.31.json=DEMON SLAYER
 CUSA03448_01.37.json=Fallout 4 Game of the Year Edition
 CUSA08877_01.00.json=FINAL FANTASY IX
 CUSA25502_01.18.json=Hot Wheels Unleashed
+CUSA03041_01.32.json=Red Dead Redemption 2
