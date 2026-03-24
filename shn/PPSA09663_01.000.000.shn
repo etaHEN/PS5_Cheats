@@ -3,11 +3,10 @@
   <Genres Name="Action" />
   <Items />
   <Cheat Text="God Mode + OHK" Description="Do not use with any other health/kill codes">
-  <Cheat Text="God Mode" Description="Do not use with One Hit Kill. Game MUST be restarted if you want to use One Hit Kill after activating God Mode">
     <Cheatline>
-      <PS5Offset>7EB-executable[0]-5</PS5Offset>
+      <PS5Offset>7DF-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A7815</Offset>
+      <Offset>C9A7821</Offset>
       <ValueOn>EB-FE</ValueOn>
       <ValueOff>00-00</ValueOff>
     </Cheatline>
@@ -15,22 +14,20 @@
       <PS5Offset>91B9EB1-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>37EE14F</Offset>
-      <ValueOn>E9-C1-96-1B-09</ValueOn>
+      <ValueOn>E9-CD-96-1B-09</ValueOn>
       <ValueOff>C5-FA-11-46-10</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>7E7-executable[0]-5</PS5Offset>
+      <PS5Offset>7DB-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A7819</Offset>
-      <ValueOn>81-7E-14-66-86-11-45-0F-84-2E-69-E4-F6-C5-F8-57-C0-C5-FA-11-46-10-E9-20-69-E4-F6</ValueOn>
+      <Offset>C9A7825</Offset>
+      <ValueOn>81-7E-38-00-00-F0-43-0F-84-22-69-E4-F6-C5-F8-57-C0-C5-FA-11-46-10-E9-14-69-E4-F6</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
-      <ValueOn>83-BE-A4-00-00-00-00-75-05-E9-2D-69-E4-F6-C5-FA-11-46-10-E9-23-69-E4-F6</ValueOn>
-      <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>7EB-executable[0]-5</PS5Offset>
+      <PS5Offset>7DF-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A7815</Offset>
+      <Offset>C9A7821</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
@@ -66,11 +63,10 @@
     </Cheatline>
   </Cheat>
   <Cheat Text="God Mode" Description="Do not use with any other health/kill codes">
-  <Cheat Text="One Hit Kill" Description="Do not use with God Mode. Game MUST be restarted if you want to use God Mode after activating One Hit Kill">
     <Cheatline>
-      <PS5Offset>7E7-executable[0]-5</PS5Offset>
+      <PS5Offset>7DB-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A7819</Offset>
+      <Offset>C9A7825</Offset>
       <ValueOn>EB-FE</ValueOn>
       <ValueOff>00-00</ValueOff>
     </Cheatline>
@@ -78,21 +74,20 @@
       <PS5Offset>91B9EB1-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>37EE14F</Offset>
-      <ValueOn>E9-C5-96-1B-09</ValueOn>
+      <ValueOn>E9-D1-96-1B-09</ValueOn>
       <ValueOff>C5-FA-11-46-10</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>7E3-executable[0]-5</PS5Offset>
+      <PS5Offset>7D7-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A781D</Offset>
-      <ValueOn>81-7E-14-66-86-11-45-0F-84-2A-69-E4-F6-C5-FA-11-46-10-E9-20-69-E4-F6</ValueOn>
-      <ValueOn>83-BE-A4-00-00-00-00-74-04-C5-F8-57-C0-C5-FA-11-46-10-E9-20-69-E4-F6</ValueOn>
+      <Offset>C9A7829</Offset>
+      <ValueOn>81-7E-38-00-00-F0-43-0F-84-1E-69-E4-F6-C5-FA-11-46-10-E9-14-69-E4-F6</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>7E7-executable[0]-5</PS5Offset>
+      <PS5Offset>7DB-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A7819</Offset>
+      <Offset>C9A7825</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
@@ -127,11 +122,11 @@
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
   </Cheat>
-  <Cheat Text="One Hit Kill" Description="Do not use with any other health/kill codes">
+  <Cheat Text="One Hit Kill (Player Character)" Description="Do not use with any other health/kill codes">
     <Cheatline>
-      <PS5Offset>7E3-executable[0]-5</PS5Offset>
+      <PS5Offset>7D7-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A781D</Offset>
+      <Offset>C9A7829</Offset>
       <ValueOn>EB-FE</ValueOn>
       <ValueOff>00-00</ValueOff>
     </Cheatline>
@@ -139,20 +134,20 @@
       <PS5Offset>91B9EB1-executable[0]-5</PS5Offset>
       <Section>0</Section>
       <Offset>37EE14F</Offset>
-      <ValueOn>E9-C9-96-1B-09</ValueOn>
+      <ValueOn>E9-D5-96-1B-09</ValueOn>
       <ValueOff>C5-FA-11-46-10</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>7DF-executable[0]-5</PS5Offset>
+      <PS5Offset>7D3-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A7821</Offset>
-      <ValueOn>81-7E-14-66-86-11-45-74-0E-C5-F8-57-C0-C5-FA-11-46-10-E9-1C-69-E4-F6-C5-FA-11-46-10-E9-12-69-E4-F6</ValueOn>
+      <Offset>C9A782D</Offset>
+      <ValueOn>81-7E-38-00-00-F0-43-74-0E-C5-F8-57-C0-C5-FA-11-46-10-E9-10-69-E4-F6-C5-FA-11-46-10-E9-06-69-E4-F6</ValueOn>
       <ValueOff>00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00</ValueOff>
     </Cheatline>
     <Cheatline>
-      <PS5Offset>7E3-executable[0]-5</PS5Offset>
+      <PS5Offset>7D7-executable[0]-5</PS5Offset>
       <Section>0</Section>
-      <Offset>C9A781D</Offset>
+      <Offset>C9A7829</Offset>
       <ValueOn>EB-02-90</ValueOn>
       <ValueOff>EB-FE-00</ValueOff>
     </Cheatline>
