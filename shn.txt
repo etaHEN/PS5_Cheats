@@ -843,3 +843,4 @@ PPSA09663_01.000.000.shn=Dragons Dogma 2
 PPSA21564_01.007.000.shn=Astro Bot
 PPSA23226_01.000.010.shn=Black Myth Wukong
 PPSA08666_01.040.000.shn=Final Fantasy 7 Rebirth
+PPSA13195_01.014.001.shn=Stellar Blade
