@@ -1,0 +1,55 @@
+{
+  "name": "Call of Duty: Black Ops",
+  "id": "PPSA34501",
+  "version": "01.008.000",
+  "process": "eboot.bin",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "001E90C7",
+          "on": "909090",
+          "off": "4429F9"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00060B2B",
+          "on": "909090",
+          "off": "894804"
+        }
+      ]
+    },
+    {
+      "name": "Max Points (999,999)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0162D8DC",
+          "on": "3F420F00",
+          "off": "3F420F00"
+        }
+      ]
+    },
+    {
+      "name": "Points 50,000",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "0162D8DC",
+          "on": "50C30000",
+          "off": "50C30000"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "oSana"
+  ]
+}
