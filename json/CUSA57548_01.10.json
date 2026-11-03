@@ -1,0 +1,151 @@
+{
+  "name": "Call of Duty: Black Ops II",
+  "id": "CUSA57548",
+  "version": "01.10",
+  "process": "codzm.elf",
+  "mods": [
+    {
+      "name": "God Mode",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00228B31",
+          "on": "90909090909090",
+          "off": "4429B3C4010000"
+        }
+      ]
+    },
+    {
+      "name": "Infinite Ammo",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "00642185",
+          "on": "9090",
+          "off": "8908"
+        }
+      ]
+    },
+    {
+      "name": "Max Points (999,999)",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01AA4008",
+          "on": "3F420F00",
+          "off": "3F420F00"
+        }
+      ]
+    },
+    {
+      "name": "Points 50,000",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "01AA4008",
+          "on": "50C30000",
+          "off": "50C30000"
+        }
+      ]
+    },
+    {
+      "name": "FOV 80",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "028AD858",
+          "on": "0000A042",
+          "off": "00008242"
+        },
+        {
+          "offset": "028D4288",
+          "on": "0000A042",
+          "off": "00008242"
+        }
+      ]
+    },
+    {
+      "name": "FOV 90",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "028AD858",
+          "on": "0000B442",
+          "off": "00008242"
+        },
+        {
+          "offset": "028D4288",
+          "on": "0000B442",
+          "off": "00008242"
+        }
+      ]
+    },
+    {
+      "name": "FOV 95",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "028AD858",
+          "on": "0000BE42",
+          "off": "00008242"
+        },
+        {
+          "offset": "028D4288",
+          "on": "0000BE42",
+          "off": "00008242"
+        }
+      ]
+    },
+    {
+      "name": "FOV 100",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "028AD858",
+          "on": "0000C842",
+          "off": "00008242"
+        },
+        {
+          "offset": "028D4288",
+          "on": "0000C842",
+          "off": "00008242"
+        }
+      ]
+    },
+    {
+      "name": "FOV 110",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "028AD858",
+          "on": "0000DC42",
+          "off": "00008242"
+        },
+        {
+          "offset": "028D4288",
+          "on": "0000DC42",
+          "off": "00008242"
+        }
+      ]
+    },
+    {
+      "name": "FOV 120",
+      "type": "checkbox",
+      "memory": [
+        {
+          "offset": "028AD858",
+          "on": "0000F042",
+          "off": "00008242"
+        },
+        {
+          "offset": "028D4288",
+          "on": "0000F042",
+          "off": "00008242"
+        }
+      ]
+    }
+  ],
+  "credits": [
+    "oSana"
+  ]
+}
